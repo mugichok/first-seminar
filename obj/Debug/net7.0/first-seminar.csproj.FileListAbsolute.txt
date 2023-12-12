@@ -1,0 +1,15 @@
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\obj\Debug\net7.0\first-seminar.csproj.AssemblyReference.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\obj\Debug\net7.0\first-seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\obj\Debug\net7.0\first-seminar.AssemblyInfoInputs.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\obj\Debug\net7.0\first-seminar.AssemblyInfo.cs
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\obj\Debug\net7.0\first-seminar.csproj.CoreCompileInputs.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\bin\Debug\net7.0\first-seminar.exe
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\bin\Debug\net7.0\first-seminar.deps.json
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\bin\Debug\net7.0\first-seminar.runtimeconfig.json
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\bin\Debug\net7.0\first-seminar.dll
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\bin\Debug\net7.0\first-seminar.pdb
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\obj\Debug\net7.0\first-seminar.dll
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\obj\Debug\net7.0\refint\first-seminar.dll
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\obj\Debug\net7.0\first-seminar.pdb
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\obj\Debug\net7.0\first-seminar.genruntimeconfig.cache
+C:\Users\Tochka1886\Desktop\разраб\знакомство с языками семинары\1 семинар\first-seminar\obj\Debug\net7.0\ref\first-seminar.dll
